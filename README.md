@@ -1,6 +1,6 @@
 # vue-board
 
-> Simple vue board for study
+> Simple bootstrap vue board for study
 
 ## Build Setup
 
