@@ -6,12 +6,12 @@ export default {
             created_at: '2020-01-01 11:42:11'
         },
         {
-            user_id: 1,
+            user_id: 2,
             name: 'joe',
             created_at: '2019-12-30 09:32:12'
         },
         {
-            user_id: 1,
+            user_id: 3,
             name: 'jenny',
             created_at: '2020-02-15 20:01:23'
         }
