@@ -1,6 +1,13 @@
 # vue-board
 
-> Simple bootstrap vue board for study
+> vue 스터디를 위한 vue 게시판 프로젝트입니다.
+https://www.youtube.com/watch?v=s1lXVr65KZg&list=PLyjjOwsFAe8ITIDUNsU_x4XNbPJeOvs-b 강의를 보며 코딩했습니다.
+
+# 활용 기술
+|Dependencies|Compatibility|
+|--|--|
+|vue|2.6.11|
+|bootstrap-vue|2.6.1|
 
 ## Build Setup
 
